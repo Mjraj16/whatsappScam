@@ -1,0 +1,2 @@
+# whatsappScam
+Repetidly spam msg
